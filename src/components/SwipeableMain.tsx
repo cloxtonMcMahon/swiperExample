@@ -112,10 +112,23 @@ export default function SwipeableMain() {
         <Swiper
           keyboard={{ enabled: true }}
           className="mySwiper2 swiper-container-v"
-          slidesPerView={5}
           loop={true}
           spaceBetween={10}
           effect="coverflow"
+          breakpoints={{
+            "640": {
+              slidesPerView: 2,
+              spaceBetween: 20,
+            },
+            "768": {
+              slidesPerView: 4,
+              spaceBetween: 40,
+            },
+            "1024": {
+              slidesPerView: 5,
+              spaceBetween: 50,
+            },
+          }}
         >
           {data.map((item: string, idx: number) => (
             <SwiperSlide className={classes.swiperSlideHorizontal} key={idx}>
