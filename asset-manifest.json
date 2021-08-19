@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/swiperExample/static/css/main.ac8bae7a.chunk.css",
+    "main.js": "/swiperExample/static/js/main.35c98009.chunk.js",
+    "main.js.map": "/swiperExample/static/js/main.35c98009.chunk.js.map",
+    "runtime-main.js": "/swiperExample/static/js/runtime-main.fcf9f542.js",
+    "runtime-main.js.map": "/swiperExample/static/js/runtime-main.fcf9f542.js.map",
+    "static/css/2.aabdcba8.chunk.css": "/swiperExample/static/css/2.aabdcba8.chunk.css",
+    "static/js/2.525a988e.chunk.js": "/swiperExample/static/js/2.525a988e.chunk.js",
+    "static/js/2.525a988e.chunk.js.map": "/swiperExample/static/js/2.525a988e.chunk.js.map",
+    "index.html": "/swiperExample/index.html",
+    "static/css/2.aabdcba8.chunk.css.map": "/swiperExample/static/css/2.aabdcba8.chunk.css.map",
+    "static/css/main.ac8bae7a.chunk.css.map": "/swiperExample/static/css/main.ac8bae7a.chunk.css.map",
+    "static/js/2.525a988e.chunk.js.LICENSE.txt": "/swiperExample/static/js/2.525a988e.chunk.js.LICENSE.txt",
+    "static/media/ankit-verma--k8CMLIhG6E-unsplash.6fb8b900.jpg": "/swiperExample/static/media/ankit-verma--k8CMLIhG6E-unsplash.6fb8b900.jpg",
+    "static/media/annie-spratt--9vMBjrU-RA-unsplash.22c8bfd1.jpg": "/swiperExample/static/media/annie-spratt--9vMBjrU-RA-unsplash.22c8bfd1.jpg",
+    "static/media/bruno-figueiredo-uoteo7uO5OI-unsplash.758c2fd8.jpg": "/swiperExample/static/media/bruno-figueiredo-uoteo7uO5OI-unsplash.758c2fd8.jpg",
+    "static/media/drew-beamer-pY3OMwVxqsk-unsplash.07728bef.jpg": "/swiperExample/static/media/drew-beamer-pY3OMwVxqsk-unsplash.07728bef.jpg",
+    "static/media/jen-theodore-lU_9C2N46X4-unsplash.6e5eb09d.jpg": "/swiperExample/static/media/jen-theodore-lU_9C2N46X4-unsplash.6e5eb09d.jpg",
+    "static/media/mason-summers-08G6495ONK0-unsplash.015e726a.jpg": "/swiperExample/static/media/mason-summers-08G6495ONK0-unsplash.015e726a.jpg",
+    "static/media/museums-victoria-eq9Mcakhmug-unsplash.393a45e1.jpg": "/swiperExample/static/media/museums-victoria-eq9Mcakhmug-unsplash.393a45e1.jpg",
+    "static/media/tim-hufner-9qBSeAN9vps-unsplash.0e93a2f2.jpg": "/swiperExample/static/media/tim-hufner-9qBSeAN9vps-unsplash.0e93a2f2.jpg",
+    "static/media/tim-hufner-Br7YAeLNmPA-unsplash.a1b711de.jpg": "/swiperExample/static/media/tim-hufner-Br7YAeLNmPA-unsplash.a1b711de.jpg",
+    "static/media/yasin-aribuga-BCp_xuIrYGQ-unsplash.8e585b74.jpg": "/swiperExample/static/media/yasin-aribuga-BCp_xuIrYGQ-unsplash.8e585b74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcf9f542.js",
+    "static/css/2.aabdcba8.chunk.css",
+    "static/js/2.525a988e.chunk.js",
+    "static/css/main.ac8bae7a.chunk.css",
+    "static/js/main.35c98009.chunk.js"
+  ]
+}
